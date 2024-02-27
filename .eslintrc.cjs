@@ -108,6 +108,7 @@ module.exports = {
         allowEmptyLines: false
       }
     ],
+    'vue/singleline-html-element-content-newline': 'off',
     'vue/require-default-prop': 'warn',
     'vue/component-name-in-template-casing': [
       'error',
